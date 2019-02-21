@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "firetodo-staging",
+    "production": "firetodo-production",
+    "dev": "firetodo-dev-46c73"
+  }
+}
